@@ -131,4 +131,3 @@ Most fine-tuning workflows rely on fragile single-node scripts that fail under c
   * [![Monthly Tier](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat-square&logo=github&logoColor=white&labelColor=161b22)](https://github.com/sponsors/LLM-Finetuning-platform?frequency=recurring) - **Sustain ongoing development**
 
 ---
----
