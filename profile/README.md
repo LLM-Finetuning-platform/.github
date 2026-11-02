@@ -10,7 +10,8 @@
 <p>
   <a href="https://github.com/LLM-Finetuning-platform"><img src="https://img.shields.io/badge/Control_Plane-Go_%7C_gRPC-00ADD8?style=flat-square&logo=go&logoColor=00ADD8&labelColor=161b22" alt="Control Plane" /></a>
   <a href="https://github.com/LLM-Finetuning-platform"><img src="https://img.shields.io/badge/Orchestration-Temporal-ffffff?style=flat-square&logo=temporal&logoColor=white&labelColor=161b22" alt="Temporal" /></a>
-  <a href="https://github.com/LLM-Finetuning-platform"><img src="https://img.shields.io/badge/Compute-KubeRay_%7C_PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=EE4C2C&labelColor=161b22" alt="Compute" /></a>
+  <a href="https://github.com/LLM-Finetuning-platform"><img src="https://img.shields.io/badge/Compute-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=EE4C2C&labelColor=161b22" alt="Compute" /></a>
+  <a href="https://github.com/LLM-Finetuning-platform"><img src="https://img.shields.io/badge/Distribution-Ray-028CF0?style=flat-square&logo=ray&logoColor=white&labelColor=161b22" alt="Compute" /></a>
   <a href="https://github.com/LLM-Finetuning-platform"><img src="https://img.shields.io/badge/Infrastructure-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=326CE5&labelColor=161b22" alt="Kubernetes" /></a>
   <a href="https://github.com/sponsors/LLM-Finetuning-platform"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="Sponsor" /></a>
 </p>
