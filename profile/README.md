@@ -100,7 +100,7 @@ Most fine-tuning workflows rely on fragile single-node scripts that fail under c
       <sub>Creator, Sole Builder & Core Maintainer</sub>
       <br /><br />
       <a href="https://www.youtube.com/@ashhhh-h2m">
-        <img src="https://img.shields.io/badge/Build%20Logs-YouTube%20Streams-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Stream Logs" />
+        <img src="https://img.shields.io/badge/Build%20Logs-YouTube%20Streams-FF0000?style=flat-square&logo=youtube&logoColor=red" alt="YouTube Stream Logs" />
       </a>
       <img src="https://img.shields.io/badge/Focus-End--to--End%20Implementation-326CE5?style=flat-square" alt="Focus" />
       <p align="left"><sub>Designed and wrote 100% of the platform codebase from scratch—streamed entirely live on YouTube. Engineered the unified Go gateway, internal gRPC contracts, Temporal workflow state machines, and the Ray/PyTorch distributed training execution engine on Kubernetes.</sub></p>
